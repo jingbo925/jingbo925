@@ -1,5 +1,15 @@
-### Hi there 👋
+###  👋 Hi there
 
+A coder and living in Beijing China
+
+- 🔭 I’m currently working on a sass company
+- 🌱 I’m currently learning golang and k8s
+- 👯 I’m looking to collaborate on cloud native
+  
+### 📫 How to reach me:
+  - [Gmail](mailto:jingbo8886@gmail.com)
+
+🎉 Thank you for coming !
 <!--
 **jingbo925/jingbo925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
